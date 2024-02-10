@@ -27,7 +27,15 @@
   border-radius: 50%;
 }
 
-.container{
-  height: 690px;
-  padding-top: 0px;
+#features{
+  margin-top: 5px;
+}
+
+.col-lg-3{
+  flex: 0 0 auto;
+  width: 25%;
+}
+
+#footer{
+  border: none;
 }
